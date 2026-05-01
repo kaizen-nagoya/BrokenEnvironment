@@ -1,5 +1,6 @@
 # BrokenEnvironment
-A story about messing up in production environment.
+A story about messing up in production environment on Computer System.
+It is not about economical, social and natural environment.
 
 # 🚀 Project Name
 
